@@ -5,7 +5,7 @@ public class trueorfalse {
     public static void separator(){
         System.out.println("------------------------------------------------");
     }
-    
+
     public static void main(String[] args) {
         Scanner checker = new Scanner(System.in);
 
